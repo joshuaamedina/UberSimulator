@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Cody's Restaurant Bar & Patio",
+    "id": 0,
+    "address": "690 Center Point Rd Suite 209, San Marcos, TX 78666-6161"
+  },
+  {
+    "name": "Texas Roadhouse",
+    "id": 1,
+    "address": "1502 S Interstate 35, San Marcos, TX 78666-6008"
+  },
+  {
+    "name": "Grins Restaurant",
+    "id": 2,
+    "address": "802 N Lbj Dr, San Marcos, TX 78666-4666"
+  },
+  {
+    "name": "Cracker Barrel",
+    "id": 3,
+    "address": "4321 S Interstate 35 I-35 & Center Point Road, San Marcos, TX 78666-9376"
+  },
+  {
+    "name": "54th Street Restaurant & Drafthouse",
+    "id": 4,
+    "address": "1303 S Interstate 35, San Marcos, TX 78666"
+  },
+  {
+    "name": "The Root Cellar Cafe",
+    "id": 5,
+    "address": "215 N Lbj Dr, San Marcos, TX 78666-5621"
+  },
+  {
+    "name": "Palmer's Restaurant Bar",
+    "id": 6,
+    "address": "218 Moore St, San Marcos, TX 78666-4416"
+  },
+  {
+    "name": "Kent Black's BBQ",
+    "id": 7,
+    "address": "510 Hull St, San Marcos, TX 78666"
+  },
+  {
+    "name": "Herbert's Taco Hut",
+    "id": 8,
+    "address": "419 Riverside Dr, San Marcos, TX 78666-6934"
+  },
+  {
+    "name": "Saltgrass Steak House",
+    "id": 9,
+    "address": "1141 I35, San Marcos, TX 78666"
+  },
+  {
+    "name": "Nostimo Mediterranean Cafe",
+    "id": 10,
+    "address": "206 W San Antonio St Ste A, San Marcos, TX 78666-5585"
+  },
+  {
+    "name": "San Marcos Bbq",
+    "id": 11,
+    "address": "2601 Hunter Rd, San Marcos, TX 78666-5112"
+  },
+  {
+    "name": "Garcia's Mexican Food Restaurant",
+    "id": 12,
+    "address": "1917 Dutton Dr, San Marcos, TX 78666-5992"
+  },
+  {
+    "name": "Italian Garden",
+    "id": 13,
+    "address": "415 N Lbj Dr, San Marcos, TX 78666-5722"
+  },
+  {
+    "name": "The Tap Room",
+    "id": 14,
+    "address": "129 E Hopkins St Ste 120, San Marcos, TX 78666-5747"
+  },
+  {
+    "name": "Outback Steakhouse",
+    "id": 15,
+    "address": "4205 S Interstate 35, San Marcos, TX 78666"
+  },
+  {
+    "name": "Mamacita's Restaurant",
+    "id": 16,
+    "address": "1400 Aquarena Springs Dr, San Marcos, TX 78666-7267"
+  },
+  {
+    "name": "Blue Dahlia Bistro",
+    "id": 17,
+    "address": "107 E Hopkins St, San Marcos, TX 78666-5611"
+  },
+  {
+    "name": "AquaBrew",
+    "id": 18,
+    "address": "150 S Lbj Dr, San Marcos, TX 78666-5506"
+  },
+  {
+    "name": "Sean Patricks",
+    "id": 19,
+    "address": "202 E San Antonio St, San Marcos, TX 78666-5590"
+  },
+  {
+    "name": "Torchy's Tacos",
+    "id": 20,
+    "address": "301 N. Guadalupe Street, San Marcos, TX 78666"
+  },
+  {
+    "name": "Ivar's River Pub",
+    "id": 21,
+    "address": "701 Cheatham St, San Marcos, TX 78666"
+  },
+  {
+    "name": "Alvin Ord's Sandwich Shop",
+    "id": 22,
+    "address": "204 University Dr, San Marcos, TX 78666-5725"
+  },
+  {
+    "name": "Red Lobster",
+    "id": 23,
+    "address": "100 I-35, San Marcos, TX 78666"
+  },
+  {
+    "name": "Jason's Deli",
+    "id": 24,
+    "address": "910 Tx-80, San Marcos, TX 78666"
+  },
+  {
+    "name": "Railyard Bar and Grill",
+    "id": 25,
+    "address": "116 S Edward Gary St, San Marcos, TX 78666-5704"
+  },
+  {
+    "name": "Thai Thai Cafe",
+    "id": 26,
+    "address": "829 N Lbj Dr Ste 101, San Marcos, TX 78666-4656"
+  },
+  {
+    "name": "Chuy's",
+    "id": 27,
+    "address": "1121 N Interstate 35, San Marcos, TX 78666-7038"
+  },
+  {
+    "name": "Cafe on the Square",
+    "id": 28,
+    "address": "126 N Lbj Dr, San Marcos, TX 78666-5620"
+  },
+  {
+    "name": "Casa Maria Restaurant Bar & Bakery",
+    "id": 29,
+    "address": "706 S Guadalupe St, San Marcos, TX 78666-6844"
+  },
+  {
+    "name": "Los Vega Mexican Restaurant",
+    "id": 30,
+    "address": "315 W San Antonio St, San Marcos, TX 78666-5514"
+  },
+  {
+    "name": "The Pita Shop",
+    "id": 31,
+    "address": "1904 Old Ranch Road 12 Suite 111, San Marcos, TX 78666-1172"
+  },
+  {
+    "name": "Gumby's Pizza & Wings",
+    "id": 32,
+    "address": "403 N Guadalupe St, San Marcos, TX 78666-5776"
+  },
+  {
+    "name": "Prik Nam Pla",
+    "id": 33,
+    "address": "1917 Dutton Dr, San Marcos, TX 78666-5992"
+  },
+  {
+    "name": "Pluckers Wing Bar",
+    "id": 34,
+    "address": "105 N Ih 35, San Marcos, TX 78666-6804"
+  },
+  {
+    "name": "Garcia's Mexican Food Restaurant",
+    "id": 35,
+    "address": "403 S Lbj Dr, San Marcos, TX 78666-6819"
+  },
+  {
+    "name": "Rogelio's Restaurant",
+    "id": 36,
+    "address": "625 S Lbj Dr 625 S LBJ Dr., San Marcos, TX 78666-6823"
+  },
+  {
+    "name": "Wok and Roll",
+    "id": 37,
+    "address": "812 S Guadalupe St, San Marcos, TX 78666-2560"
+  },
+  {
+    "name": "The SPOT Cinema Eatery and Social Haus",
+    "id": 38,
+    "address": "1180 Thorpe Ln # 130, San Marcos, TX 78666-7106"
+  },
+  {
+    "name": "Figaro's Pizza & Pub",
+    "id": 39,
+    "address": "243 Wonder World Dr Ste 100, San Marcos, TX 78666-5938"
+  },
+  {
+    "name": "A-Tan",
+    "id": 40,
+    "address": "407 Stagecoach Trl Ste 101, San Marcos, TX 78666-5204"
+  },
+  {
+    "name": "Whataburger",
+    "id": 41,
+    "address": "1004 State Hwy 123, San Marcos, TX 78666"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "id": 42,
+    "address": "1305 S I-35, San Marcos, TX 78666"
+  },
+  {
+    "name": "Imperial Garden Chinese Restaurant",
+    "id": 43,
+    "address": "1104 Thorpe Ln Ste L, San Marcos, TX 78666-7126"
+  },
+  {
+    "name": "Taqueria El Charro",
+    "id": 44,
+    "address": "311 E Hopkins St, San Marcos, TX 78666-5716"
+  },
+  {
+    "name": "Komal Latin Kitchen + Bar",
+    "id": 45,
+    "address": "2550 Hunter Rd #1106, San Marcos, TX 78666-5263"
+  },
+  {
+    "name": "Japan Latino Sushi & Steak",
+    "id": 46,
+    "address": "1328 N Interstate 35, San Marcos, TX 78666-7130"
+  },
+  {
+    "name": "Johnny Rockets",
+    "id": 47,
+    "address": "3939 S Interstate 35 Ste 915, San Marcos, TX 78666-9378"
+  },
+  {
+    "name": "McAlister's Deli",
+    "id": 48,
+    "address": "180 Springtown Way Suite 101, San Marcos, TX 78666-7123"
+  },
+  {
+    "name": "Chili Dog Stand",
+    "id": 49,
+    "address": "1140 Invasion St, San Marcos, TX 78666-6237"
+  }
+]

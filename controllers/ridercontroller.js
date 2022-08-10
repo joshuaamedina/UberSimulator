@@ -59,7 +59,7 @@ router.get('/:riderId/nearByDrivers', async (req, res) => {
         if (!destination) return res.sendStatus(404);
         var mapConfig = {
             method: 'get',
-            url: 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination + '&key=AIzaSyCvmwnLn_888W53ksV_egkWShyJIqCirO0',
+            url: 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination, // + 'place API key here'
             headers: { }
         };
 
